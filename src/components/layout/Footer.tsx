@@ -56,14 +56,14 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center text-gray-600">
                 <MapPin size={16} className="mr-2 text-gray-400" />
-                Dhrumil Pipaliya
+                Jersey city , New Jersey
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-200 mt-8 pt-6 text-center text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} MediAid. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Dhrumil Pipaliya. All rights reserved.</p>
         </div>
       </div>
     </footer>
