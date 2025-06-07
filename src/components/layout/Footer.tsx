@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 mb-4">MediAid</h3>
             <p className="text-gray-600 mb-4">
-              AI-powered symptom analysis and appointment booking for small medical clinics.
+              AI-powered symptom analysis  for patients.
             </p>
             <p className="text-sm text-gray-500 flex items-center">
               <Heart size={16} className="text-error-500 mr-1" /> Made for better healthcare access

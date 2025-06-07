@@ -77,7 +77,7 @@ const SymptomInput: React.FC<SymptomInputProps> = ({ onAnalyze, isLoading }) => 
       
       <div className="mt-6">
         <p className="text-sm font-medium text-gray-700 mb-2">
-          Example symptom descriptions:
+           symptom descriptions:
         </p>
         <div className="space-y-2">
           {exampleSymptoms.map((example, index) => (
